@@ -11,7 +11,7 @@
     "handlebars": "^4.1.2",
     "js-yaml": "^3.13.1",
     "react": "^16.8.3",
-    "react-native": "^0.59.8",
+    "react-native": "^0.62.3",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "ws": "^7.0.0"
